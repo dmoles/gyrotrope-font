@@ -3,7 +3,8 @@
 .formatVersion = 3;
 DisplayStrings = (
 o,
-"ﬂ"
+"ﬂ",
+u
 );
 axes = (
 {
@@ -19967,7 +19968,7 @@ unicode = 7791;
 glyphname = u;
 kernLeft = a;
 kernRight = a;
-lastChange = "2025-02-02 02:02:23 +0000";
+lastChange = "2025-02-02 02:12:58 +0000";
 layers = (
 {
 anchors = (
@@ -19985,7 +19986,7 @@ pos = (866,1152);
 },
 {
 name = topright;
-pos = (1548,1152);
+pos = (1584,1152);
 }
 );
 layerId = m01;
@@ -20569,7 +20570,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (1548,188);
+pos = (1584,188);
 ref = horncomb;
 }
 );
