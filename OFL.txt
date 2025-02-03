@@ -1,4 +1,4 @@
-Copyright 2025 David Moles (https://github.com/dmoles/gyrochrome-font),
+Copyright 2025 David Moles (https://github.com/dmoles/gyrotrope-font),
 with Reserved Font Name Gyrotrope.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
