@@ -7,7 +7,9 @@ DisplayStrings = (
 "tŧ",
 "gǥ",
 "ǥ",
-"ʉ"
+"ʉ",
+"lﬂ",
+"ﬁ"
 );
 axes = (
 {
@@ -16357,32 +16359,32 @@ unicode = 7733;
 glyphname = l;
 kernLeft = l;
 kernRight = l;
-lastChange = "2025-02-20 02:54:48 +0000";
+lastChange = "2025-02-20 22:58:51 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (280,0);
+pos = (248,0);
 },
 {
 name = center;
-pos = (280,768);
+pos = (248,768);
 },
 {
 name = top;
-pos = (280,1632);
+pos = (248,1632);
 },
 {
 name = topright;
-pos = (412,1632);
+pos = (380,1632);
 }
 );
 layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (96,0);
+pos = (64,0);
 ref = "_stem-v-lowercase-CH";
 }
 );
@@ -16433,7 +16435,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (45,480);
+pos = (13,480);
 ref = acutecomb;
 }
 );
@@ -16469,7 +16471,7 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (348,-80);
+pos = (316,-80);
 ref = caroncomb.alt;
 }
 );
@@ -16505,7 +16507,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (-34,0);
+pos = (-66,0);
 ref = circumflexbelowcomb;
 }
 );
@@ -16540,7 +16542,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (92,0);
+pos = (60,0);
 ref = commaaccentcomb;
 }
 );
@@ -16575,7 +16577,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (92,0);
+pos = (60,0);
 ref = commaaccentcomb;
 }
 );
@@ -16609,7 +16611,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (56,0);
+pos = (24,0);
 ref = dotbelowcomb;
 }
 );
@@ -16643,11 +16645,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (56,0);
+pos = (24,0);
 ref = dotbelowcomb;
 },
 {
-pos = (-40,480);
+pos = (-72,480);
 ref = macroncomb;
 }
 );
@@ -16685,7 +16687,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (-40,0);
+pos = (-72,0);
 ref = macronbelowcomb;
 }
 );
@@ -16722,7 +16724,7 @@ pos = (230,0);
 ref = l;
 },
 {
-pos = (126,0);
+pos = (94,0);
 ref = slashshortcomb;
 }
 );
@@ -22334,7 +22336,7 @@ unicode = 42892;
 glyphname = fi;
 kernLeft = f;
 kernRight = l;
-lastChange = "2025-02-01 19:37:32 +0000";
+lastChange = "2025-02-20 22:59:15 +0000";
 layers = (
 {
 anchors = (
@@ -22354,7 +22356,7 @@ pos = (724,0);
 ref = idotless;
 }
 );
-width = 1124;
+width = 1156;
 },
 {
 anchors = (
@@ -22384,7 +22386,7 @@ unicode = 64257;
 glyphname = fl;
 kernLeft = f;
 kernRight = l;
-lastChange = "2025-02-01 19:37:35 +0000";
+lastChange = "2025-02-20 22:59:05 +0000";
 layers = (
 {
 layerId = m01;
@@ -22394,11 +22396,11 @@ ref = f;
 },
 {
 alignment = -1;
-pos = (788,0);
+pos = (660,0);
 ref = l;
 }
 );
-width = 1124;
+width = 1220;
 },
 {
 layerId = m002;
