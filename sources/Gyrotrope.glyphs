@@ -2,14 +2,8 @@
 .appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
-"ó",
-"II̷IIƗ",
-"tŧ",
-"gǥ",
-"ǥ",
-"ʉ",
-"lﬂ",
-"ﬁ"
+To,
+WOV
 );
 axes = (
 {
@@ -6246,7 +6240,7 @@ unicode = 330;
 glyphname = O;
 kernLeft = O;
 kernRight = O;
-lastChange = "2025-02-03 21:05:21 +0000";
+lastChange = "2025-02-20 23:15:40 +0000";
 layers = (
 {
 anchors = (
@@ -10202,7 +10196,7 @@ unicode = 360;
 glyphname = V;
 kernLeft = V;
 kernRight = V;
-lastChange = "2025-02-20 02:52:31 +0000";
+lastChange = "2025-02-20 23:15:57 +0000";
 layers = (
 {
 anchors = (
@@ -10332,7 +10326,7 @@ unicode = 581;
 glyphname = W;
 kernLeft = W;
 kernRight = W;
-lastChange = "2025-02-20 02:53:05 +0000";
+lastChange = "2025-02-20 23:15:45 +0000";
 layers = (
 {
 anchors = (
@@ -11531,7 +11525,7 @@ unicode = 42891;
 glyphname = a;
 kernLeft = a;
 kernRight = a;
-lastChange = "2025-02-03 20:51:35 +0000";
+lastChange = "2025-02-20 23:14:59 +0000";
 layers = (
 {
 anchors = (
@@ -17385,7 +17379,7 @@ unicode = 331;
 glyphname = o;
 kernLeft = c;
 kernRight = c;
-lastChange = "2025-02-03 20:28:41 +0000";
+lastChange = "2025-02-20 23:14:54 +0000";
 layers = (
 {
 anchors = (
@@ -42636,6 +42630,67 @@ weightClass = 900;
 }
 );
 kerningLTR = {
+m01 = {
+"@MMK_L_A" = {
+"@MMK_R_H" = 0;
+"@MMK_R_T" = -360;
+"@MMK_R_V" = -288;
+"@MMK_R_W" = -216;
+};
+"@MMK_L_O" = {
+"@MMK_R_A" = -160;
+"@MMK_R_V" = -96;
+"@MMK_R_W" = -96;
+"@MMK_R_a" = -64;
+"@MMK_R_c" = -64;
+};
+"@MMK_L_T" = {
+"@MMK_R_A" = -320;
+"@MMK_R_a" = -96;
+"@MMK_R_c" = -96;
+};
+"@MMK_L_V" = {
+"@MMK_R_A" = -288;
+"@MMK_R_O" = -64;
+"@MMK_R_a" = -128;
+"@MMK_R_c" = -128;
+};
+"@MMK_L_W" = {
+"@MMK_R_A" = -136;
+"@MMK_R_O" = -96;
+"@MMK_R_a" = -192;
+"@MMK_R_c" = -192;
+};
+"@MMK_L_Z" = {
+"@MMK_R_a" = -128;
+"@MMK_R_c" = -128;
+};
+"@MMK_L_a" = {
+"@MMK_R_v" = -64;
+"@MMK_R_w" = -64;
+"@MMK_R_z" = -96;
+};
+"@MMK_L_c" = {
+"@MMK_R_w" = -64;
+"@MMK_R_z" = -96;
+};
+"@MMK_L_e" = {
+"@MMK_R_a" = -64;
+"@MMK_R_c" = -64;
+};
+"@MMK_L_v" = {
+"@MMK_R_a" = -64;
+"@MMK_R_c" = -64;
+};
+"@MMK_L_w" = {
+"@MMK_R_a" = -64;
+"@MMK_R_c" = -64;
+};
+"@MMK_L_z" = {
+"@MMK_R_a" = -96;
+"@MMK_R_c" = -96;
+};
+};
 m002 = {
 "@MMK_L_A" = {
 "@MMK_R_O" = 0;
