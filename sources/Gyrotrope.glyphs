@@ -9,7 +9,8 @@ DisplayStrings = (
 "♧",
 "№",
 "♡",
-"♥"
+"♥",
+"♦"
 );
 axes = (
 {
@@ -50,7 +51,7 @@ name = "Keep Kerning in one Lookup";
 value = 1;
 }
 );
-date = "2025-02-16 20:04:54 +0000";
+date = "2025-02-25 05:04:53 +0000";
 familyName = Gyrotrope;
 fontMaster = (
 {
@@ -42861,5 +42862,5 @@ name = "h x-thin";
 );
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }

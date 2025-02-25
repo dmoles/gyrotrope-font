@@ -18,6 +18,10 @@ afford a real typographer you should definitely hire one.
 
 ChangeLog
 
+24 February 2025 (David Moles) Gyrotrope v 1.002
+- Adds further "suit" character improvements
+- Reworks spacing and kerning
+
 16 February 2025 (David Moles) Gyrotrope v 1.001
 - Adds "white suit" characters (♡♢♤♧)
 - Improves "black suit" characters (♥︎♦︎♠︎♣︎)
