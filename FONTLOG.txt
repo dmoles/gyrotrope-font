@@ -18,6 +18,9 @@ afford a real typographer you should definitely hire one.
 
 ChangeLog
 
+1 March 2025 (David Moles) Gyrotrope v 1.003
+- Fix quotation mark spacing
+
 24 February 2025 (David Moles) Gyrotrope v 1.002
 - Adds further "suit" character improvements
 - Reworks spacing and kerning
