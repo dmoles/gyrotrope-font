@@ -2,8 +2,13 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-",̦",
-","
+"+",
+"×",
+"<",
+"~",
+"ˆ^",
+"^",
+"∞"
 );
 axes = (
 {
