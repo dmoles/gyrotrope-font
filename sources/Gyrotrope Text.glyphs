@@ -8,7 +8,8 @@ DisplayStrings = (
 "̸",
 "̷",
 "͟",
-"¯"
+"¯",
+"ﬂ"
 );
 axes = (
 {
@@ -21927,7 +21928,7 @@ unicode = 64257;
 glyphname = fl;
 kernLeft = f;
 kernRight = l;
-lastChange = "2025-03-06 01:34:59 +0000";
+lastChange = "2025-03-15 21:02:48 +0000";
 layers = (
 {
 anchors = (
@@ -21950,6 +21951,12 @@ ref = l;
 width = 1135;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (644,0);
+}
+);
 layerId = m002;
 shapes = (
 {
@@ -21957,11 +21964,11 @@ ref = f;
 },
 {
 alignment = -1;
-pos = (770,0);
+pos = (650,0);
 ref = l;
 }
 );
-width = 1288;
+width = 1365;
 }
 );
 metricLeft = f;
