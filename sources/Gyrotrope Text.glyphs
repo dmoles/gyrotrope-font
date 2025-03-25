@@ -2,29 +2,7 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-"¹",
-"²",
-"³",
-"⁴",
-"⁵",
-"⁶",
-"⁷",
-"⁸",
-"ª",
-"º",
-"l/caroncomb.alt ľ",
-i,
-"ɨ",
-"iị",
-j,
-"ȷ",
-"®",
-"©",
-"⁰№",
-D,
-"DĎ",
-"̌Ď",
-"ˇ̌Ď"
+vow
 );
 axes = (
 {
@@ -65,7 +43,7 @@ name = "Keep Kerning in one Lookup";
 value = 1;
 }
 );
-date = "2025-03-21 22:21:26 +0000";
+date = "2025-03-25 15:43:48 +0000";
 familyName = "Gyrotrope Text";
 fontMaster = (
 {
@@ -11266,7 +11244,7 @@ unicode = 42891;
 glyphname = a;
 kernLeft = a;
 kernRight = a;
-lastChange = "2025-03-15 21:39:12 +0000";
+lastChange = "2025-03-25 15:41:17 +0000";
 layers = (
 {
 anchors = (
@@ -16466,9 +16444,8 @@ unicode = 7747;
 },
 {
 glyphname = n;
-kernLeft = a;
 kernRight = a;
-lastChange = "2025-03-15 21:49:28 +0000";
+lastChange = "2025-03-25 15:39:59 +0000";
 layers = (
 {
 anchors = (
@@ -18067,9 +18044,8 @@ unicode = 339;
 },
 {
 glyphname = p;
-kernLeft = a;
 kernRight = c;
-lastChange = "2025-03-15 21:47:44 +0000";
+lastChange = "2025-03-25 15:39:52 +0000";
 layers = (
 {
 anchors = (
@@ -18190,8 +18166,7 @@ unicode = 254;
 {
 glyphname = q;
 kernLeft = c;
-kernRight = a;
-lastChange = "2025-03-15 21:47:54 +0000";
+lastChange = "2025-03-25 15:39:55 +0000";
 layers = (
 {
 anchors = (
@@ -18240,9 +18215,8 @@ unicode = 113;
 },
 {
 glyphname = r;
-kernLeft = a;
 kernRight = r;
-lastChange = "2025-03-15 21:43:52 +0000";
+lastChange = "2025-03-25 15:40:06 +0000";
 layers = (
 {
 anchors = (
@@ -19559,8 +19533,7 @@ unicode = 7791;
 {
 glyphname = u;
 kernLeft = a;
-kernRight = a;
-lastChange = "2025-03-15 21:48:17 +0000";
+lastChange = "2025-03-25 15:40:03 +0000";
 layers = (
 {
 anchors = (
@@ -20537,7 +20510,7 @@ unicode = 361;
 glyphname = v;
 kernLeft = v;
 kernRight = v;
-lastChange = "2025-03-15 21:44:36 +0000";
+lastChange = "2025-03-25 15:43:08 +0000";
 layers = (
 {
 anchors = (
@@ -42106,7 +42079,7 @@ m01 = {
 "@MMK_R_c" = -168;
 };
 "@MMK_L_Z" = {
-"@MMK_R_a" = -112;
+"@MMK_R_a" = -72;
 "@MMK_R_c" = -112;
 };
 "@MMK_L_a" = {
@@ -42115,6 +42088,7 @@ m01 = {
 "@MMK_R_z" = -84;
 };
 "@MMK_L_c" = {
+"@MMK_R_v" = -56;
 "@MMK_R_w" = -56;
 "@MMK_R_z" = -84;
 };
@@ -42167,7 +42141,7 @@ m002 = {
 "@MMK_R_c" = -168;
 };
 "@MMK_L_Z" = {
-"@MMK_R_a" = -112;
+"@MMK_R_a" = -72;
 "@MMK_R_c" = -112;
 };
 "@MMK_L_a" = {
@@ -42176,6 +42150,7 @@ m002 = {
 "@MMK_R_z" = -84;
 };
 "@MMK_L_c" = {
+"@MMK_R_v" = -56;
 "@MMK_R_w" = -56;
 "@MMK_R_z" = -84;
 };
@@ -42318,5 +42293,5 @@ name = "h x-thin";
 );
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
