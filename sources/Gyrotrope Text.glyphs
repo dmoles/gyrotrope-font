@@ -2,18 +2,9 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-"✓",
-"☑",
-"☐",
-"/.notdef",
-H,
-O,
-N,
-T,
-"☒",
-"♠",
-"♤",
-"♡"
+"□",
+"•",
+"■"
 );
 axes = (
 {
@@ -54,7 +45,7 @@ name = "Keep Kerning in one Lookup";
 value = 1;
 }
 );
-date = "2025-04-27 15:57:08 +0000";
+date = "2025-05-11 21:11:47 +0000";
 familyName = "Gyrotrope Text";
 fontMaster = (
 {
@@ -31039,17 +31030,16 @@ unicode = 9744;
 glyphname = ballotBoxWithCheck;
 kernLeft = H;
 kernRight = H;
-lastChange = "2025-04-27 15:51:00 +0000";
+lastChange = "2025-05-11 21:08:01 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (401,158);
+pos = (365,158);
 ref = checkmark;
 },
 {
-pos = (36,0);
 ref = ballotBox;
 }
 );
@@ -31059,11 +31049,10 @@ width = 1908;
 layerId = m002;
 shapes = (
 {
-pos = (401,158);
+pos = (365,158);
 ref = checkmark;
 },
 {
-pos = (36,0);
 ref = ballotBox;
 }
 );
@@ -31076,17 +31065,16 @@ unicode = 9745;
 glyphname = ballotBoxWithX;
 kernLeft = H;
 kernRight = H;
-lastChange = "2025-04-27 15:51:00 +0000";
+lastChange = "2025-05-11 21:07:58 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (36,0);
 ref = ballotBox;
 },
 {
-pos = (314,0);
+pos = (278,0);
 ref = multiply;
 }
 );
@@ -31096,11 +31084,10 @@ width = 1908;
 layerId = m002;
 shapes = (
 {
-pos = (36,0);
 ref = ballotBox;
 },
 {
-pos = (314,0);
+pos = (278,0);
 ref = multiply;
 }
 );
@@ -37717,6 +37704,170 @@ width = 1295;
 unicode = 9674;
 },
 {
+glyphname = blackSquare;
+lastChange = "2025-05-11 21:11:01 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(144,404,ls),
+(144,352,o),
+(172,324,o),
+(224,324,cs),
+(888,324,ls),
+(940,324,o),
+(968,352,o),
+(968,404,cs),
+(968,1004,ls),
+(968,1056,o),
+(940,1084,o),
+(888,1084,cs),
+(224,1084,ls),
+(172,1084,o),
+(144,1056,o),
+(144,1004,cs)
+);
+}
+);
+width = 1112;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(144,262,ls),
+(144,210,o),
+(172,182,o),
+(224,182,cs),
+(1252,182,ls),
+(1304,182,o),
+(1332,210,o),
+(1332,262,cs),
+(1332,1146,ls),
+(1332,1198,o),
+(1304,1226,o),
+(1252,1226,cs),
+(224,1226,ls),
+(172,1226,o),
+(144,1198,o),
+(144,1146,cs)
+);
+}
+);
+width = 1476;
+}
+);
+unicode = 9632;
+},
+{
+glyphname = whiteSquare;
+lastChange = "2025-05-11 21:10:21 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(144,404,ls),
+(144,352,o),
+(172,324,o),
+(224,324,cs),
+(888,324,ls),
+(940,324,o),
+(968,352,o),
+(968,404,cs),
+(968,1004,ls),
+(968,1056,o),
+(940,1084,o),
+(888,1084,cs),
+(224,1084,ls),
+(172,1084,o),
+(144,1056,o),
+(144,1004,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,912,o),
+(348,940,o),
+(400,940,cs),
+(712,940,ls),
+(764,940,o),
+(792,912,o),
+(792,860,cs),
+(792,548,ls),
+(792,496,o),
+(764,468,o),
+(712,468,cs),
+(400,468,ls),
+(348,468,o),
+(320,496,o),
+(320,548,cs),
+(320,860,ls)
+);
+}
+);
+width = 1112;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(144,262,ls),
+(144,210,o),
+(172,182,o),
+(224,182,cs),
+(1252,182,ls),
+(1304,182,o),
+(1332,210,o),
+(1332,262,cs),
+(1332,1146,ls),
+(1332,1198,o),
+(1304,1226,o),
+(1252,1226,cs),
+(224,1226,ls),
+(172,1226,o),
+(144,1198,o),
+(144,1146,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(540,874,o),
+(568,902,o),
+(620,902,cs),
+(856,902,ls),
+(908,902,o),
+(936,874,o),
+(936,822,cs),
+(936,586,ls),
+(936,534,o),
+(908,506,o),
+(856,506,cs),
+(620,506,ls),
+(568,506,o),
+(540,534,o),
+(540,586,cs),
+(540,822,ls)
+);
+}
+);
+width = 1476;
+}
+);
+unicode = 9633;
+},
+{
 glyphname = dieresiscomb;
 lastChange = "2025-03-02 15:42:17 +0000";
 layers = (
@@ -42405,5 +42556,5 @@ name = "h x-thin";
 );
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
