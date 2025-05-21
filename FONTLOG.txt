@@ -14,9 +14,21 @@ for a project, in a rounded style and a range of weights, on a DIY budget.
 As I said of Gyrochrome, if you find it useful, I'm happy, but if you can
 afford a real typographer you should definitely hire one.
 
--- David Moles, 2025-02-03
+Gyrotrope is available in two versions, the original _Gyrotrope_ and
+_Gyrotrope Text_. Gyrotrope Text has redrawn symbols and punctuation,
+better kerning, and more glyphs, as well as slightly different metrics and
+proportions, and I recommend it over the original for most applications.
+That said, while the original is no longer under active development, issue
+reports are welcome for both.
+
+Both are available in six weights, from Regular (400) to Black (900).
+
+-- David Moles, 2025-05-20
 
 ChangeLog
+
+20 May 2025 (David Moles) Gyrotrope Text v 1.004
+- First "official" release of Gyrotrope Text
 
 1 March 2025 (David Moles) Gyrotrope v 1.003
 - Fix quotation mark spacing

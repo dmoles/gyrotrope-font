@@ -2,7 +2,7 @@
 
 by David Moles
 
-![Sample of Gyrotrope](documentation/image1.png)
+![Sample of Gyrotrope Text](documentation/gyrotrope-text.png)
 
 Gyrotrope is a wide, rounded, geometric sans-serif inspired by typefaces
 of the 1960s such as Microgramma and Eurostile, as well as contemporary
@@ -16,11 +16,16 @@ for a project, in a rounded style and a range of weights, on a DIY budget.
 As I said of Gyrochrome, if you find it useful, I'm happy, but if you can
 afford a real typographer you should definitely hire one.
 
-(That said, issue reports are welcome.)
+Gyrotrope is available in two versions, the original _Gyrotrope_ and
+_Gyrotrope Text_. Gyrotrope Text has redrawn symbols and punctuation,
+better kerning, and more glyphs, as well as slightly different metrics and
+proportions, and I recommend it over the original for most applications.
+That said, while the original is no longer under active development, issue
+reports are welcome for both.
 
-Gyrotrope is available in six weights, from Regular (400) to Heavy (900).
+Both are available in six weights, from Regular (400) to Black (900).
 
--- David Moles, 2025-02-03
+-- David Moles, 2025-05-20
 
 ## Designer
 
