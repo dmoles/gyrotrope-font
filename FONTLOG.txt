@@ -27,6 +27,9 @@ Both are available in six weights, from Regular (400) to Black (900).
 
 ChangeLog
 
+20 September 2025 (David Moles) Gyrotrope Text v 1.005
+- Added various media control symbols
+
 20 May 2025 (David Moles) Gyrotrope Text v 1.004
 - First "official" release of Gyrotrope Text
 

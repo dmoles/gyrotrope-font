@@ -50,7 +50,7 @@ name = "Keep Kerning in one Lookup";
 value = 1;
 }
 );
-date = "2025-05-11 21:11:47 +0000";
+date = "2025-09-20 23:10:30 +0000";
 familyName = "Gyrotrope Text";
 fontMaster = (
 {
@@ -34839,11 +34839,6 @@ nodes = (
 (148,1060,o),
 (148,1013,cs)
 );
-},
-{
-closed = 1;
-nodes = (
-);
 }
 );
 width = 1610;
@@ -34870,11 +34865,6 @@ nodes = (
 (76,1264,o),
 (29,1230,o),
 (29,1167,cs)
-);
-},
-{
-closed = 1;
-nodes = (
 );
 }
 );
@@ -43291,5 +43281,5 @@ name = "h x-thin";
 );
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
