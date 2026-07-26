@@ -3,7 +3,8 @@
 .formatVersion = 3;
 DisplayStrings = (
 "★",
-"⛭"
+"⛭",
+"⚙"
 );
 axes = (
 {
@@ -32594,6 +32595,65 @@ width = 1440;
 }
 );
 unicode = 9831;
+},
+{
+glyphname = gear;
+lastChange = "2026-07-26 15:31:01 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = gearWithoutHub;
+},
+{
+closed = 1;
+nodes = (
+(680,632,o),
+(712,664,o),
+(712,704,cs),
+(712,744,o),
+(680,776,o),
+(640,776,cs),
+(600,776,o),
+(568,744,o),
+(568,704,cs),
+(568,664,o),
+(600,632,o),
+(640,632,cs)
+);
+}
+);
+width = 1280;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = gearWithoutHub;
+},
+{
+closed = 1;
+nodes = (
+(780,596,o),
+(828,644,o),
+(828,704,cs),
+(828,764,o),
+(780,812,o),
+(720,812,cs),
+(660,812,o),
+(612,764,o),
+(612,704,cs),
+(612,644,o),
+(660,596,o),
+(720,596,cs)
+);
+}
+);
+width = 1440;
+}
+);
+unicode = 9881;
 },
 {
 glyphname = gearWithoutHub;
